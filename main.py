@@ -8,7 +8,7 @@ from typing import Dict, List
 # PUT YOUR API KEYS HERE
 # ============================================
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-TELEGRAM_BOT_TOKEN = "8558739123:AAEIlOftzhHSW-vL9hfEN2Q4VebfSck5gV4"
+
 # ============================================
 
 # Initialize Groq client
